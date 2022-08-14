@@ -1,0 +1,6 @@
+name: Gods
+version: '${project.version}'
+main: xyz.roosterseatyou.gods.Gods
+api-version: 1.19
+authors: [ Roosterseatyou ]
+description: Plugin for my personal server but ig it can be used elsewhere
